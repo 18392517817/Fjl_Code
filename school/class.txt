@@ -1,0 +1,10 @@
+group_name 
+password
+GID
+user_list
+
+
+
+gpasswd 
+
+chfn   chsh

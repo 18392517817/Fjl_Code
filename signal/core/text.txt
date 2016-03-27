@@ -1,0 +1,6 @@
+
+
+ulimit -c 1024  可以产生core.XXX      文件   XXX是进程号
+
+
+

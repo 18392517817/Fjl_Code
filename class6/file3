@@ -1,0 +1,12 @@
+find: unknown predicate `-2'
+find: unknown predicate `-2'
+/usr/libexec/openssh/ssh-keysign
+/usr/libexec/polkit-1/polkit-agent-helper-1
+/usr/libexec/utempter/utempter
+/usr/libexec/abrt-action-install-debuginfo-to-abrt-cache
+/usr/libexec/pt_chown
+/usr/libexec/pulse/proximity-helper
+/usr/lib/vmware-tools/bin64/vmware-user-suid-wrapper
+/usr/lib/vmware-tools/bin32/vmware-user-suid-wrapper
+/usr/lib/nspluginwrapper/plugin-config
+find: `/usr/lib/audit': Permission denied

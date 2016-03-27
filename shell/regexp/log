@@ -1,0 +1,20 @@
+1111111
+2222222
+3333333
+444444
+555555
+666666
+777777
+888888
+999999
+000000
+
+file
+file.c
+fjl
+log
+total 16
+-rw-r--r--. 1 admin admin 1512 Dec 15 19:49 file
+-rw-rw-r--. 1 admin admin   60 Dec 15 20:27 file.c
+-rw-rw-r--. 1 admin admin  149 Dec 16 12:33 fjl
+-rw-rw-r--. 1 admin admin   94 Dec 16 16:15 log

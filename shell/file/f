@@ -1,0 +1,9 @@
+
+read val
+if [ ${val}  == 0 ]
+then
+	echo "0"
+else
+	echo "!0"
+
+fi
